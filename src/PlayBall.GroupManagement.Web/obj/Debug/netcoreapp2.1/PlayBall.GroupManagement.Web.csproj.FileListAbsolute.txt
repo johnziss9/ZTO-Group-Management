@@ -1,0 +1,14 @@
+C:\Users\zissimouj\Documents\Projects\ASPNetCore-FromZeroToOverkill\ZTO-Group-Management\src\PlayBall.GroupManagement.Web\bin\Debug\netcoreapp2.1\PlayBall.GroupManagement.Web.deps.json
+C:\Users\zissimouj\Documents\Projects\ASPNetCore-FromZeroToOverkill\ZTO-Group-Management\src\PlayBall.GroupManagement.Web\bin\Debug\netcoreapp2.1\PlayBall.GroupManagement.Web.runtimeconfig.json
+C:\Users\zissimouj\Documents\Projects\ASPNetCore-FromZeroToOverkill\ZTO-Group-Management\src\PlayBall.GroupManagement.Web\bin\Debug\netcoreapp2.1\PlayBall.GroupManagement.Web.runtimeconfig.dev.json
+C:\Users\zissimouj\Documents\Projects\ASPNetCore-FromZeroToOverkill\ZTO-Group-Management\src\PlayBall.GroupManagement.Web\bin\Debug\netcoreapp2.1\PlayBall.GroupManagement.Web.dll
+C:\Users\zissimouj\Documents\Projects\ASPNetCore-FromZeroToOverkill\ZTO-Group-Management\src\PlayBall.GroupManagement.Web\bin\Debug\netcoreapp2.1\PlayBall.GroupManagement.Web.pdb
+C:\Users\zissimouj\Documents\Projects\ASPNetCore-FromZeroToOverkill\ZTO-Group-Management\src\PlayBall.GroupManagement.Web\obj\Debug\netcoreapp2.1\PlayBall.GroupManagement.Web.csprojAssemblyReference.cache
+C:\Users\zissimouj\Documents\Projects\ASPNetCore-FromZeroToOverkill\ZTO-Group-Management\src\PlayBall.GroupManagement.Web\obj\Debug\netcoreapp2.1\PlayBall.GroupManagement.Web.csproj.CoreCompileInputs.cache
+C:\Users\zissimouj\Documents\Projects\ASPNetCore-FromZeroToOverkill\ZTO-Group-Management\src\PlayBall.GroupManagement.Web\obj\Debug\netcoreapp2.1\PlayBall.GroupManagement.Web.RazorAssemblyInfo.cache
+C:\Users\zissimouj\Documents\Projects\ASPNetCore-FromZeroToOverkill\ZTO-Group-Management\src\PlayBall.GroupManagement.Web\obj\Debug\netcoreapp2.1\PlayBall.GroupManagement.Web.RazorAssemblyInfo.cs
+C:\Users\zissimouj\Documents\Projects\ASPNetCore-FromZeroToOverkill\ZTO-Group-Management\src\PlayBall.GroupManagement.Web\obj\Debug\netcoreapp2.1\PlayBall.GroupManagement.Web.AssemblyInfoInputs.cache
+C:\Users\zissimouj\Documents\Projects\ASPNetCore-FromZeroToOverkill\ZTO-Group-Management\src\PlayBall.GroupManagement.Web\obj\Debug\netcoreapp2.1\PlayBall.GroupManagement.Web.AssemblyInfo.cs
+C:\Users\zissimouj\Documents\Projects\ASPNetCore-FromZeroToOverkill\ZTO-Group-Management\src\PlayBall.GroupManagement.Web\obj\Debug\netcoreapp2.1\PlayBall.GroupManagement.Web.RazorTargetAssemblyInfo.cache
+C:\Users\zissimouj\Documents\Projects\ASPNetCore-FromZeroToOverkill\ZTO-Group-Management\src\PlayBall.GroupManagement.Web\obj\Debug\netcoreapp2.1\PlayBall.GroupManagement.Web.dll
+C:\Users\zissimouj\Documents\Projects\ASPNetCore-FromZeroToOverkill\ZTO-Group-Management\src\PlayBall.GroupManagement.Web\obj\Debug\netcoreapp2.1\PlayBall.GroupManagement.Web.pdb
